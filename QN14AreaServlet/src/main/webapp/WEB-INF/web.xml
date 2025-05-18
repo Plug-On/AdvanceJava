@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>AreaServlet</servlet-name>
+        <servlet-class>qn14AreaServlet.AreaServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AreaServlet</servlet-name>
+        <url-pattern>/AreaServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
