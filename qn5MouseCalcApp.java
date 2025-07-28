@@ -2,9 +2,9 @@
 // fields for input and third text field for output. Your program should display sum if user
 // presses the mouse and difference if the user releases the mouse.
 
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 public class qn5MouseCalcApp {
     public static void main(String[] args) {
